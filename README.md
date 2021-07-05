@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+[![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivianngo97&count_private=true&hide=prs,issues,contribs)](https://github.com/vivianngo97/github-readme-stats)
 
 <!--
 **vivianngo97/vivianngo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
